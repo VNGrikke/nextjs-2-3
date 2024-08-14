@@ -1,0 +1,31 @@
+/* components/BaseAlert.module.css */
+.alert {
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-family: Arial, sans-serif;
+}
+
+.success {
+    background-color: #e6f7e6;
+    color: #2d862d;
+    border: 1px solid #2d862d;
+}
+
+.info {
+    background-color: #e6f3ff;
+    color: #1a5e8a;
+    border: 1px solid #1a5e8a;
+}
+
+.warning {
+    background-color: #fff6e6;
+    color: #d6a100;
+    border: 1px solid #d6a100;
+}
+
+.error {
+    background-color: #ffe6e6;
+    color: #a60000;
+    border: 1px solid #a60000;
+}
