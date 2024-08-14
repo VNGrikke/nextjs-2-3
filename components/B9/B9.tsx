@@ -1,4 +1,3 @@
-// pages/index.js
 import BaseAlert from './BaseAlert';
 
 export default function B9() {
